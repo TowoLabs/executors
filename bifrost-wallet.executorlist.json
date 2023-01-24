@@ -14,6 +14,14 @@
       "url": "https://bifrostoracle.com",
       "address": "0xdD76d702358936Af39c0E9F7E71F9512C83cacaE",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/executors/master/assets/0xdD76d702358936Af39c0E9F7E71F9512C83cacaE.png",
+    },
+    {
+      "chainId": 114,
+      "name": "Bifrost Claim Bot",
+      "description": "Bifrost Claim Bot is an executor service run by Towo Labs, a Flare Network development partner and the company behind Bifrost Wallet.",
+      "url": "https://bifrostoracle.com",
+      "address": "0xd93939F6eCb842Aa2130233C6AE2345e22F57561",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/executors/master/assets/0xd93939F6eCb842Aa2130233C6AE2345e22F57561.png",
     }
   ]
 }
