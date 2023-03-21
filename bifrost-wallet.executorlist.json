@@ -34,6 +34,20 @@
         "validatorRewards": false
       },
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "address": "0x1d772d3ad13ca1912a7b0ce2bca3b071969b2c87",
+      "name": "Flare Oracle Auto-Claimer",
+      "description": "An automatic claiming solution by Flare Oracle",
+      "website": "https://flareoracle.io",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/executors/master/assets/0x1d772d3ad13ca1912a7b0ce2bca3b071969b2c87.png",
+      "features": {
+        "ftsoRewards": true,
+        "flareDrops": true,
+        "validatorRewards": false
+      },
+      "listed": true
     }
   ]
 }
