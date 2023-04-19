@@ -48,6 +48,21 @@
         "validatorRewards": false
       },
       "listed": true
-    }
+    },
+    {
+      "chainId": 14,
+      "address": "0x3c17c55881aefeb5672997972289424de53bf967",
+      "name": "Oracle Daemon Executor",
+      "description": "Oracle Daemon Executor is an executor service run by the Oracle Daemon.",
+      "website": "https://www.oracle-daemon.com",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/executors/master/assets/0x3c17c55881aefeb5672997972289424de53bf967.png",
+      "features": {
+        "ftsoRewards": true,
+        "flareDrops": true,
+        "validatorRewards": true
+      },
+      "listed": true
+    },
+	
   ]
 }
