@@ -1,9 +1,9 @@
 {
   "name": "Bifrost Wallet Executor List",
-  "timestamp": "2023-03-20T00:00:00+00:00",
+  "timestamp": "2023-04-19T00:00:00+00:00",
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "executors": [
@@ -51,6 +51,20 @@
     },
     {
       "chainId": 14,
+      "address": "0x1d772d3ad13ca1912a7b0ce2bca3b071969b2c87",
+      "name": "Flare Oracle Auto-Claimer",
+      "description": "An automatic claiming solution by Flare Oracle",
+      "website": "https://flareoracle.io",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/executors/master/assets/0x1d772d3ad13ca1912a7b0ce2bca3b071969b2c87.png",
+      "features": {
+        "ftsoRewards": true,
+        "flareDrops": true,
+        "validatorRewards": false
+      },
+      "listed": true
+    },
+    {
+      "chainId": 14,
       "address": "0x3c17c55881aefeb5672997972289424de53bf967",
       "name": "Oracle Daemon Executor",
       "description": "Oracle Daemon Executor is an executor service run by the Oracle Daemon.",
@@ -62,7 +76,6 @@
         "validatorRewards": true
       },
       "listed": true
-    },
-	
+    }
   ]
 }
